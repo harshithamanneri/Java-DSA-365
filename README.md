@@ -1,7 +1,5 @@
 # Java-DSA-365
 
-# Java-DSA-365
-
 🚀 My journey to learn Java and Data Structures & Algorithms from scratch.
 
 ## About
